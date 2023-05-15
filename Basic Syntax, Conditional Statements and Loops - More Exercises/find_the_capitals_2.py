@@ -1,0 +1,1 @@
+print([index for index, charts in enumerate(input()) if charts.isupper()])
