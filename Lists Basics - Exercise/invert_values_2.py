@@ -1,0 +1,1 @@
+print([-int(ch) for ch in input().split(" ")])
