@@ -1,0 +1,1 @@
+print([index for index, digit in enumerate(input().split(", ")) if int(digit) % 2 == 0])
