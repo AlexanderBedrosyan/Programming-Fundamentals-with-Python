@@ -1,0 +1,1 @@
+print(*[ch for ch in input().split() if len(ch) % 2 == 0], sep="\n")
